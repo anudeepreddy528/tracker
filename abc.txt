@@ -1,4 +1,4 @@
 git init -- local repository
 git init mya -  mya is a repository created
 
-welcome tanmaya
+hello
